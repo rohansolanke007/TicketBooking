@@ -15,7 +15,7 @@ class train:
         print(f"Train no: {self.trainNo} is running on time")
 
 
-t = train(312121)
+t = train("312121M")
 
 t.book("pune" , "delhi")
 
